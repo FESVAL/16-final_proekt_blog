@@ -1,1 +1,1 @@
-# 16-final_proekt_blog
+# 16-final_project_blog
